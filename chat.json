@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "ok change this background to be of golden cats",
+        "message_id": "guest08082024032532",
+        "timestamp": "08082024032532",
+        "component_file_name": "purple_background_cta_component_1723087461",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
