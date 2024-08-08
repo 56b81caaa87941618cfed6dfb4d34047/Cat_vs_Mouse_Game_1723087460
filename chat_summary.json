@@ -18,5 +18,11 @@
         "content": "Alright, I'm on it! Changing background to golden cats.",
         "timestamp": "08082024032532",
         "message_id": "guest08082024032532"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the golden cats background to be a static image or an animated background?\", \"option1\": \"Static image\", \"option2\": \"Animated background\"}, {\"question 2\": \"Should the golden cats background be applied universally across all game levels or only on specific ones?\", \"option1\": \"Across all game levels\", \"option2\": \"Only on specific levels\"}], \"input_token_count\": 260, \"output_token_count\": 91, \"time_taken\": \"0:00:03.011555\"}",
+        "timestamp": "08082024032535",
+        "message_id": "guest08082024032532"
     }
 ]
