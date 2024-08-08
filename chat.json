@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm on it! Changing background to golden cats.",
+        "message_id": "guest08082024032532",
+        "timestamp": "08082024032532",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "ok change this background to be of golden cats",
         "message_id": "guest08082024032532",
