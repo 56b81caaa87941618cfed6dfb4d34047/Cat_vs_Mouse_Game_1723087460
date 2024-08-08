@@ -12,5 +12,11 @@
         "content": "ok change this background to be of golden cats",
         "timestamp": "08082024032532",
         "message_id": "guest08082024032532"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm on it! Changing background to golden cats.",
+        "timestamp": "08082024032532",
+        "message_id": "guest08082024032532"
     }
 ]
